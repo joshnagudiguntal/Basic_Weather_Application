@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7d0c842-3c87-4aa7-8fa7-3206fcdac431" /># Basic_Weather_Application
+Basic_Weather_Application
 Python Weather App (Tkinter GUI)
 A simple and clean Weather Application built using Python, Tkinter, and the OpenWeatherMap API.
 ---
