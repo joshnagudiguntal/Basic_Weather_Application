@@ -1,15 +1,23 @@
 Basic_Weather_Application
+
 Python Weather App (Tkinter GUI)
+
 A simple and clean Weather Application built using Python, Tkinter, and the OpenWeatherMap API.
+
 ---
 
 ⭐ Features
+
 Fetches real-time weather data using API
 
 Displays:
+
 🌡 Temperature
+
 💧 Humidity
+
 🌥 Weather condition
+
 💨 Wind speed
 
 User-friendly Tkinter GUI
